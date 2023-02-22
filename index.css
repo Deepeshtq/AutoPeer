@@ -1,0 +1,32 @@
+.header {
+    background-color: rgb(66, 66, 66);
+    text-align: center;
+    color:white;
+}
+
+.body{
+     margin-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+.p  {
+    text-align: center;
+    font-size:larger;
+}
+.button{
+    text-align: center;
+   
+}
+.btn {
+        background: rgb(66, 66, 66);
+        color: white;
+        font-size: 15px;
+        padding: 10px 10px;
+        border-radius: 5px;
+        cursor: pointer;
+}
+.btn:hover{
+    background: green;
+}
+
